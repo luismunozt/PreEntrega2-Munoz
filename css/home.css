@@ -84,6 +84,7 @@
     grid-area: us;
     background-color: rgb(238, 237, 233);
     align-items: center;
+    color: rgb(142, 78, 79);
     
 }
 #us .la-empresa{
@@ -131,5 +132,20 @@
 
 }
 
+.btn{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-decoration: none;
+    color: rgb(153, 55, 22);
+    margin: 10px;  
+}
+
+.btn:hover{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-decoration: none;
+    color: rgb(22, 105, 153);
+    margin: 10px;  
+}
 
 
